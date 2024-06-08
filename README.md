@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://manzuralam.vercel.app/](https://manzuralam.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@monzur.alam.16 , https://dev.to/monzuralamgit](https://medium.com/@monzur.alam.16 , https://dev.to/monzuralamgit)
+- 📝 I regularly write articles on [https://medium.com/@monzur.alam.16 , https://dev.to/monzuralamgit]
 
 - 💬 Ask me about **React , CSS**
 
