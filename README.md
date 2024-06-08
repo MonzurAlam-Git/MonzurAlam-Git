@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1kdOjqc5cFw2kk303CGYVgl6wxFvp7Omb](https://drive.google.com/uc?export=download&id=1kdOjqc5cFw2kk303CGYVgl6wxFvp7Omb)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/monzuralamgit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="monzuralamgit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/monzuralam-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monzuralam-webdev" height="30" width="40" /></a>
