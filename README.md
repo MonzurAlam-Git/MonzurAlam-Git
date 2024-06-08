@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on 
      * [MediQuanta](https://medi-quanta.vercel.app/)
+     * [SmileCraft Dentistry](https://doctorsportal-11797.web.app/)
 
 - 🌱 I’m currently learning **React Best Practices,Data Structure and Algorithm. I have also plan to learn Next JS, PostgreSQL ,Redux etc**
 
