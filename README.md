@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manzurul Alam</h1>
-<h3 align="center">A frontEnd Developer fascinated by how DESIGN collaborates with WEB INTERACTIVITY which gives a blissful experience to the user</h3>
+<h3 align="center">A  <b>Front End React.JS  Developer </b> fascinated by  <b>how DESIGN collaborates with WEB INTERACTIVITY </b> which gives a blissful experience to the user</h3>
 
 - 🔭 I’m currently working on [MediQuanta](https://medi-quanta.vercel.app/)
 
