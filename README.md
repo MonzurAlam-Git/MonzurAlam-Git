@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://manzuralam.vercel.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1kdOjqc5cFw2kk303CGYVgl6wxFvp7Omb](https://drive.google.com/uc?export=download&id=1kdOjqc5cFw2kk303CGYVgl6wxFvp7Omb)
+- 📄 Know about my experiences [My Resume Link]([https://drive.google.com/uc?export=download&id=1kdOjqc5cFw2kk303CGYVgl6wxFvp7Omb](https://shorturl.at/JpGaO))
 
 
 <h3 align="center">Connect with me:</h3>
