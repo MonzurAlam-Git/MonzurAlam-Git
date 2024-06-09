@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://manzuralam.vercel.app/**
 
-- 📄 Resume :  [View Resume](https://drive.google.com/file/d/1kdOjqc5cFw2kk303CGYVgl6wxFvp7Omb/view?usp=sharing)
+- 📄 Resume :  [View Resume](https://drive.google.com/file/d/1kdOjqc5cFw2kk303CGYVgl6wxFvp7Omb/view?usp=sharing) | 
    [Download resume](https://drive.google.com/uc?export=download&id=1kdOjqc5cFw2kk303CGYVgl6wxFvp7Omb)
 
 
