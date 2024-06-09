@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://manzuralam.vercel.app/**
 
-- 📄 Know about my experiences [My Resume Link](https://shorturl.at/JpGaO)
+- 📄 Know about my experiences [View Resume](https://shorturl.at/zSigL) [Download resume] (https://shorturl.at/JpGaO)
 
 
 <h3 align="center">Connect with me:</h3>
